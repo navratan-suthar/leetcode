@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/navratan-suthar/leetcode/tree/master/0035-search-insert-position) |
+| [1480-running-sum-of-1d-array](https://github.com/navratan-suthar/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/navratan-suthar/leetcode/tree/master/0035-search-insert-position) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/navratan-suthar/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
