@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navratan-suthar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/navratan-suthar/leetcode/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/navratan-suthar/leetcode/tree/master/0283-move-zeroes) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/navratan-suthar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/navratan-suthar/leetcode/tree/master/0941-valid-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/navratan-suthar/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/navratan-suthar/leetcode/tree/master/0035-search-insert-position) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/navratan-suthar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navratan-suthar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/navratan-suthar/leetcode/tree/master/0283-move-zeroes) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/navratan-suthar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
