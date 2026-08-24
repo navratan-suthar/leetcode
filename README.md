@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/navratan-suthar/leetcode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/navratan-suthar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/navratan-suthar/leetcode/tree/master/0941-valid-mountain-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/navratan-suthar/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/navratan-suthar/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/navratan-suthar/leetcode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/navratan-suthar/leetcode/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/navratan-suthar/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
