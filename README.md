@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/navratan-suthar/leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/navratan-suthar/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/navratan-suthar/leetcode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/navratan-suthar/leetcode/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/navratan-suthar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/navratan-suthar/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/navratan-suthar/leetcode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/navratan-suthar/leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/navratan-suthar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Ternary Search
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/navratan-suthar/leetcode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/navratan-suthar/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/navratan-suthar/leetcode/tree/master/1929-concatenation-of-array) |
 ## Matrix
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/navratan-suthar/leetcode/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/navratan-suthar/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
