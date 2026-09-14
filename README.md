@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/navratan-suthar/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/navratan-suthar/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/navratan-suthar/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/navratan-suthar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/navratan-suthar/leetcode/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/navratan-suthar/leetcode/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/navratan-suthar/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/navratan-suthar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/navratan-suthar/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
