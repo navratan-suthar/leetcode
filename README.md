@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/navratan-suthar/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/navratan-suthar/leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/navratan-suthar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/navratan-suthar/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/navratan-suthar/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/navratan-suthar/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/navratan-suthar/leetcode/tree/master/0704-binary-search) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/navratan-suthar/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/navratan-suthar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/navratan-suthar/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/navratan-suthar/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/navratan-suthar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/navratan-suthar/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/navratan-suthar/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/navratan-suthar/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/navratan-suthar/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/navratan-suthar/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/navratan-suthar/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/navratan-suthar/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/navratan-suthar/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/navratan-suthar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/navratan-suthar/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navratan-suthar/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/navratan-suthar/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/navratan-suthar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navratan-suthar/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -148,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/navratan-suthar/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/navratan-suthar/leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/navratan-suthar/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Queue
 |  |
