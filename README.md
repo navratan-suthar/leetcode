@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navratan-suthar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/navratan-suthar/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/navratan-suthar/leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/navratan-suthar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/navratan-suthar/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/navratan-suthar/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/navratan-suthar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/navratan-suthar/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/navratan-suthar/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/navratan-suthar/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/navratan-suthar/leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/navratan-suthar/leetcode/tree/master/0509-fibonacci-number) |
