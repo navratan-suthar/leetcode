@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/navratan-suthar/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/navratan-suthar/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/navratan-suthar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/navratan-suthar/leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/navratan-suthar/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/navratan-suthar/leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/navratan-suthar/leetcode/tree/master/0844-backspace-string-compare) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/navratan-suthar/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/navratan-suthar/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/navratan-suthar/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/navratan-suthar/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/navratan-suthar/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/navratan-suthar/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/navratan-suthar/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/navratan-suthar/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/navratan-suthar/leetcode/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/navratan-suthar/leetcode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/navratan-suthar/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/navratan-suthar/leetcode/tree/master/1929-concatenation-of-array) |
